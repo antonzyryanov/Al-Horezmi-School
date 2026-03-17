@@ -1,0 +1,405 @@
+﻿{
+    "theme_name":  "Физика",
+    "questions":  [
+                      {
+                          "answer":  "Which unit measures force?",
+                          "answer_1":  "Newton",
+                          "answer_2":  "Joule",
+                          "answer_3":  "Watt",
+                          "answer_4":  "Pascal",
+                          "right_answer":  "Newton"
+                      },
+                      {
+                          "answer":  "Which quantity is measured in meters?",
+                          "answer_1":  "Mass",
+                          "answer_2":  "Length",
+                          "answer_3":  "Time",
+                          "answer_4":  "Current",
+                          "right_answer":  "Length"
+                      },
+                      {
+                          "answer":  "What device measures temperature?",
+                          "answer_1":  "Barometer",
+                          "answer_2":  "Thermometer",
+                          "answer_3":  "Ammeter",
+                          "answer_4":  "Voltmeter",
+                          "right_answer":  "Thermometer"
+                      },
+                      {
+                          "answer":  "What is the approximate acceleration due to gravity on Earth?",
+                          "answer_1":  "4.9 m/sВІ",
+                          "answer_2":  "9.8 m/sВІ",
+                          "answer_3":  "15 m/sВІ",
+                          "answer_4":  "98 m/sВІ",
+                          "right_answer":  "9.8 m/sВІ"
+                      },
+                      {
+                          "answer":  "Which state of matter has fixed volume and fixed shape?",
+                          "answer_1":  "Gas",
+                          "answer_2":  "Liquid",
+                          "answer_3":  "Solid",
+                          "answer_4":  "Plasma",
+                          "right_answer":  "Solid"
+                      },
+                      {
+                          "answer":  "What is the speed formula?",
+                          "answer_1":  "distance / time",
+                          "answer_2":  "time / distance",
+                          "answer_3":  "mass / volume",
+                          "answer_4":  "force / area",
+                          "right_answer":  "distance / time"
+                      },
+                      {
+                          "answer":  "What does a stopwatch measure?",
+                          "answer_1":  "Time",
+                          "answer_2":  "Mass",
+                          "answer_3":  "Temperature",
+                          "answer_4":  "Voltage",
+                          "right_answer":  "Time"
+                      },
+                      {
+                          "answer":  "What is the SI unit of current?",
+                          "answer_1":  "Volt",
+                          "answer_2":  "Ampere",
+                          "answer_3":  "Ohm",
+                          "answer_4":  "Tesla",
+                          "right_answer":  "Ampere"
+                      },
+                      {
+                          "answer":  "Which energy is stored in food?",
+                          "answer_1":  "Chemical",
+                          "answer_2":  "Nuclear",
+                          "answer_3":  "Elastic",
+                          "answer_4":  "Sound",
+                          "right_answer":  "Chemical"
+                      },
+                      {
+                          "answer":  "Which law states that an object remains at rest or in uniform motion unless acted on by a force?",
+                          "answer_1":  "Newton first law",
+                          "answer_2":  "Newton second law",
+                          "answer_3":  "Ohm law",
+                          "answer_4":  "Hooke law",
+                          "right_answer":  "Newton first law"
+                      },
+                      {
+                          "answer":  "What happens to pressure if force increases on the same area?",
+                          "answer_1":  "It decreases",
+                          "answer_2":  "It increases",
+                          "answer_3":  "It stays zero",
+                          "answer_4":  "It disappears",
+                          "right_answer":  "It increases"
+                      },
+                      {
+                          "answer":  "Which circuit component resists current?",
+                          "answer_1":  "Battery",
+                          "answer_2":  "Resistor",
+                          "answer_3":  "Switch",
+                          "answer_4":  "Lamp",
+                          "right_answer":  "Resistor"
+                      },
+                      {
+                          "answer":  "What is the unit of power?",
+                          "answer_1":  "Watt",
+                          "answer_2":  "Joule",
+                          "answer_3":  "Newton",
+                          "answer_4":  "Second",
+                          "right_answer":  "Watt"
+                      },
+                      {
+                          "answer":  "Which wave can travel through a vacuum?",
+                          "answer_1":  "Sound",
+                          "answer_2":  "Water",
+                          "answer_3":  "Electromagnetic",
+                          "answer_4":  "Seismic",
+                          "right_answer":  "Electromagnetic"
+                      },
+                      {
+                          "answer":  "What is kinetic energy related to?",
+                          "answer_1":  "Position",
+                          "answer_2":  "Motion",
+                          "answer_3":  "Color",
+                          "answer_4":  "Smell",
+                          "right_answer":  "Motion"
+                      },
+                      {
+                          "answer":  "What is the unit of frequency?",
+                          "answer_1":  "Hertz",
+                          "answer_2":  "Newton",
+                          "answer_3":  "Joule",
+                          "answer_4":  "Meter",
+                          "right_answer":  "Hertz"
+                      },
+                      {
+                          "answer":  "What type of lens is thicker at the center?",
+                          "answer_1":  "Concave",
+                          "answer_2":  "Convex",
+                          "answer_3":  "Flat",
+                          "answer_4":  "Prism",
+                          "right_answer":  "Convex"
+                      },
+                      {
+                          "answer":  "What does a voltmeter measure?",
+                          "answer_1":  "Current",
+                          "answer_2":  "Voltage",
+                          "answer_3":  "Resistance",
+                          "answer_4":  "Power",
+                          "right_answer":  "Voltage"
+                      },
+                      {
+                          "answer":  "What is momentum equal to?",
+                          "answer_1":  "mass Г— velocity",
+                          "answer_2":  "force Г— area",
+                          "answer_3":  "energy / time",
+                          "answer_4":  "distance Г— time",
+                          "right_answer":  "mass Г— velocity"
+                      },
+                      {
+                          "answer":  "What is the SI unit of pressure?",
+                          "answer_1":  "Pascal",
+                          "answer_2":  "Newton",
+                          "answer_3":  "Watt",
+                          "answer_4":  "Joule",
+                          "right_answer":  "Pascal"
+                      },
+                      {
+                          "answer":  "What happens to resistance if a wire becomes longer?",
+                          "answer_1":  "It decreases",
+                          "answer_2":  "It increases",
+                          "answer_3":  "It becomes zero",
+                          "answer_4":  "It stays identical for all materials",
+                          "right_answer":  "It increases"
+                      },
+                      {
+                          "answer":  "Which mirror produces an enlarged upright image when the object is close?",
+                          "answer_1":  "Plane",
+                          "answer_2":  "Convex",
+                          "answer_3":  "Concave",
+                          "answer_4":  "Broken",
+                          "right_answer":  "Concave"
+                      },
+                      {
+                          "answer":  "Which quantity is measured in joules?",
+                          "answer_1":  "Energy",
+                          "answer_2":  "Current",
+                          "answer_3":  "Length",
+                          "answer_4":  "Charge",
+                          "right_answer":  "Energy"
+                      },
+                      {
+                          "answer":  "What is the mechanical advantage of a simple machine meant to do?",
+                          "answer_1":  "Change force",
+                          "answer_2":  "Change color",
+                          "answer_3":  "Stop energy",
+                          "answer_4":  "Create matter",
+                          "right_answer":  "Change force"
+                      },
+                      {
+                          "answer":  "What kind of motion repeats at regular intervals?",
+                          "answer_1":  "Random motion",
+                          "answer_2":  "Periodic motion",
+                          "answer_3":  "Linear motion",
+                          "answer_4":  "Terminal motion",
+                          "right_answer":  "Periodic motion"
+                      },
+                      {
+                          "answer":  "What is the unit of electric charge?",
+                          "answer_1":  "Coulomb",
+                          "answer_2":  "Ohm",
+                          "answer_3":  "Tesla",
+                          "answer_4":  "Farad",
+                          "right_answer":  "Coulomb"
+                      },
+                      {
+                          "answer":  "In a series circuit, what is the same through each component?",
+                          "answer_1":  "Current",
+                          "answer_2":  "Voltage",
+                          "answer_3":  "Resistance",
+                          "answer_4":  "Power",
+                          "right_answer":  "Current"
+                      },
+                      {
+                          "answer":  "What is the formula for work?",
+                          "answer_1":  "force Г— distance",
+                          "answer_2":  "mass Г— acceleration",
+                          "answer_3":  "power Г— timeВІ",
+                          "answer_4":  "speed / time",
+                          "right_answer":  "force Г— distance"
+                      },
+                      {
+                          "answer":  "Which process transfers heat by direct contact?",
+                          "answer_1":  "Radiation",
+                          "answer_2":  "Conduction",
+                          "answer_3":  "Reflection",
+                          "answer_4":  "Diffraction",
+                          "right_answer":  "Conduction"
+                      },
+                      {
+                          "answer":  "What does Ohm law relate?",
+                          "answer_1":  "Voltage, current, resistance",
+                          "answer_2":  "Mass, force, acceleration",
+                          "answer_3":  "Pressure, volume, temperature",
+                          "answer_4":  "Energy, frequency, wavelength",
+                          "right_answer":  "Voltage, current, resistance"
+                      },
+                      {
+                          "answer":  "Which color of visible light has the shortest wavelength?",
+                          "answer_1":  "Red",
+                          "answer_2":  "Yellow",
+                          "answer_3":  "Green",
+                          "answer_4":  "Violet",
+                          "right_answer":  "Violet"
+                      },
+                      {
+                          "answer":  "What is the efficiency of a perfect machine?",
+                          "answer_1":  "50%",
+                          "answer_2":  "75%",
+                          "answer_3":  "100%",
+                          "answer_4":  "Depends only on mass",
+                          "right_answer":  "100%"
+                      },
+                      {
+                          "answer":  "What is the unit of magnetic field strength commonly used in school physics?",
+                          "answer_1":  "Tesla",
+                          "answer_2":  "Volt",
+                          "answer_3":  "Newton",
+                          "answer_4":  "Henry",
+                          "right_answer":  "Tesla"
+                      },
+                      {
+                          "answer":  "Which gas law keeps temperature constant while pressure and volume change inversely?",
+                          "answer_1":  "Boyle law",
+                          "answer_2":  "Charles law",
+                          "answer_3":  "Faraday law",
+                          "answer_4":  "Snell law",
+                          "right_answer":  "Boyle law"
+                      },
+                      {
+                          "answer":  "What happens to wavelength when frequency increases and wave speed stays constant?",
+                          "answer_1":  "It increases",
+                          "answer_2":  "It decreases",
+                          "answer_3":  "It becomes zero immediately",
+                          "answer_4":  "It turns into mass",
+                          "right_answer":  "It decreases"
+                      },
+                      {
+                          "answer":  "Which quantity remains constant in an isolated system during collisions?",
+                          "answer_1":  "Momentum",
+                          "answer_2":  "Color",
+                          "answer_3":  "Temperature always",
+                          "answer_4":  "Voltage",
+                          "right_answer":  "Momentum"
+                      },
+                      {
+                          "answer":  "What phenomenon explains a straw appearing bent in water?",
+                          "answer_1":  "Reflection",
+                          "answer_2":  "Refraction",
+                          "answer_3":  "Conduction",
+                          "answer_4":  "Magnetism",
+                          "right_answer":  "Refraction"
+                      },
+                      {
+                          "answer":  "What is the escape velocity concept related to?",
+                          "answer_1":  "Leaving gravity",
+                          "answer_2":  "Melting solids",
+                          "answer_3":  "Stopping current",
+                          "answer_4":  "Increasing charge",
+                          "right_answer":  "Leaving gravity"
+                      },
+                      {
+                          "answer":  "Which particle has a negative electric charge?",
+                          "answer_1":  "Proton",
+                          "answer_2":  "Neutron",
+                          "answer_3":  "Electron",
+                          "answer_4":  "Photon",
+                          "right_answer":  "Electron"
+                      },
+                      {
+                          "answer":  "What does the first law of thermodynamics express?",
+                          "answer_1":  "Energy conservation",
+                          "answer_2":  "Speed of light",
+                          "answer_3":  "Law of gravitation",
+                          "answer_4":  "Wave reflection",
+                          "right_answer":  "Energy conservation"
+                      },
+                      {
+                          "answer":  "Which quantity is measured in electronvolts in modern physics?",
+                          "answer_1":  "Energy",
+                          "answer_2":  "Length",
+                          "answer_3":  "Current",
+                          "answer_4":  "Density",
+                          "right_answer":  "Energy"
+                      },
+                      {
+                          "answer":  "What causes spectral lines in atoms?",
+                          "answer_1":  "Electron energy transitions",
+                          "answer_2":  "Friction only",
+                          "answer_3":  "Magnetic poles only",
+                          "answer_4":  "Air resistance",
+                          "right_answer":  "Electron energy transitions"
+                      },
+                      {
+                          "answer":  "What is the speed of light in vacuum approximately?",
+                          "answer_1":  "3Г—10^8 m/s",
+                          "answer_2":  "3Г—10^6 m/s",
+                          "answer_3":  "3Г—10^5 km/s",
+                          "answer_4":  "9.8 m/s",
+                          "right_answer":  "3Г—10^8 m/s"
+                      },
+                      {
+                          "answer":  "Which theory explains gravity as spacetime curvature?",
+                          "answer_1":  "Special relativity",
+                          "answer_2":  "General relativity",
+                          "answer_3":  "Quantum chromodynamics",
+                          "answer_4":  "Ohm law",
+                          "right_answer":  "General relativity"
+                      },
+                      {
+                          "answer":  "What is a photon?",
+                          "answer_1":  "A quantum of light",
+                          "answer_2":  "A heavy nucleus",
+                          "answer_3":  "A sound particle",
+                          "answer_4":  "A resistor",
+                          "right_answer":  "A quantum of light"
+                      },
+                      {
+                          "answer":  "What kind of radiation has the highest frequency?",
+                          "answer_1":  "Radio",
+                          "answer_2":  "Microwave",
+                          "answer_3":  "X-ray",
+                          "answer_4":  "Gamma ray",
+                          "right_answer":  "Gamma ray"
+                      },
+                      {
+                          "answer":  "What determines the color emitted by a hot object most directly?",
+                          "answer_1":  "Its temperature",
+                          "answer_2":  "Its mass only",
+                          "answer_3":  "Its name",
+                          "answer_4":  "Its volume only",
+                          "right_answer":  "Its temperature"
+                      },
+                      {
+                          "answer":  "Which experiment showed light behaves like a wave through interference?",
+                          "answer_1":  "Young double-slit",
+                          "answer_2":  "Cavendish balance",
+                          "answer_3":  "Millikan oil drop",
+                          "answer_4":  "Rutherford scattering",
+                          "right_answer":  "Young double-slit"
+                      },
+                      {
+                          "answer":  "What is inertia?",
+                          "answer_1":  "Resistance to changes in motion",
+                          "answer_2":  "Ability to create force",
+                          "answer_3":  "Rate of heat flow",
+                          "answer_4":  "Measure of brightness",
+                          "right_answer":  "Resistance to changes in motion"
+                      },
+                      {
+                          "answer":  "Which quantity is conserved in ideal elastic collisions along with momentum?",
+                          "answer_1":  "Kinetic energy",
+                          "answer_2":  "Charge density",
+                          "answer_3":  "Pressure",
+                          "answer_4":  "Resistance",
+                          "right_answer":  "Kinetic energy"
+                      }
+                  ]
+}

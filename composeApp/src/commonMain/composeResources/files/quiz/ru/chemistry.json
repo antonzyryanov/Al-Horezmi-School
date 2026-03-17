@@ -1,0 +1,405 @@
+﻿{
+    "theme_name":  "Химия",
+    "questions":  [
+                      {
+                          "answer":  "What is the chemical symbol for water?",
+                          "answer_1":  "CO2",
+                          "answer_2":  "H2O",
+                          "answer_3":  "O2",
+                          "answer_4":  "NaCl",
+                          "right_answer":  "H2O"
+                      },
+                      {
+                          "answer":  "Which element has the symbol Na?",
+                          "answer_1":  "Nitrogen",
+                          "answer_2":  "Sodium",
+                          "answer_3":  "Neon",
+                          "answer_4":  "Nickel",
+                          "right_answer":  "Sodium"
+                      },
+                      {
+                          "answer":  "What gas do humans breathe in for respiration?",
+                          "answer_1":  "Hydrogen",
+                          "answer_2":  "Oxygen",
+                          "answer_3":  "Nitrogen",
+                          "answer_4":  "Helium",
+                          "right_answer":  "Oxygen"
+                      },
+                      {
+                          "answer":  "What is the pH of a neutral solution?",
+                          "answer_1":  "0",
+                          "answer_2":  "7",
+                          "answer_3":  "10",
+                          "answer_4":  "14",
+                          "right_answer":  "7"
+                      },
+                      {
+                          "answer":  "What is the symbol for gold?",
+                          "answer_1":  "Ag",
+                          "answer_2":  "Gd",
+                          "answer_3":  "Au",
+                          "answer_4":  "Go",
+                          "right_answer":  "Au"
+                      },
+                      {
+                          "answer":  "Which particle has a positive charge in the atom?",
+                          "answer_1":  "Electron",
+                          "answer_2":  "Proton",
+                          "answer_3":  "Neutron",
+                          "answer_4":  "Photon",
+                          "right_answer":  "Proton"
+                      },
+                      {
+                          "answer":  "What is the formula of table salt?",
+                          "answer_1":  "NaCl",
+                          "answer_2":  "KCl",
+                          "answer_3":  "CaCO3",
+                          "answer_4":  "HCl",
+                          "right_answer":  "NaCl"
+                      },
+                      {
+                          "answer":  "Which state of matter fills the whole container?",
+                          "answer_1":  "Solid",
+                          "answer_2":  "Liquid",
+                          "answer_3":  "Gas",
+                          "answer_4":  "Crystal only",
+                          "right_answer":  "Gas"
+                      },
+                      {
+                          "answer":  "What is the lightest element?",
+                          "answer_1":  "Helium",
+                          "answer_2":  "Hydrogen",
+                          "answer_3":  "Lithium",
+                          "answer_4":  "Oxygen",
+                          "right_answer":  "Hydrogen"
+                      },
+                      {
+                          "answer":  "Which group contains very unreactive elements?",
+                          "answer_1":  "Alkali metals",
+                          "answer_2":  "Halogens",
+                          "answer_3":  "Noble gases",
+                          "answer_4":  "Transition metals",
+                          "right_answer":  "Noble gases"
+                      },
+                      {
+                          "answer":  "What kind of bond forms when atoms share electrons?",
+                          "answer_1":  "Ionic",
+                          "answer_2":  "Covalent",
+                          "answer_3":  "Metallic only",
+                          "answer_4":  "Hydraulic",
+                          "right_answer":  "Covalent"
+                      },
+                      {
+                          "answer":  "What is the periodic table arranged by?",
+                          "answer_1":  "Atomic number",
+                          "answer_2":  "Color",
+                          "answer_3":  "Mass only",
+                          "answer_4":  "Density",
+                          "right_answer":  "Atomic number"
+                      },
+                      {
+                          "answer":  "What happens in oxidation?",
+                          "answer_1":  "Gain of electrons",
+                          "answer_2":  "Loss of electrons",
+                          "answer_3":  "No particle changes",
+                          "answer_4":  "Only cooling",
+                          "right_answer":  "Loss of electrons"
+                      },
+                      {
+                          "answer":  "Which acid is found in car batteries?",
+                          "answer_1":  "Hydrochloric acid",
+                          "answer_2":  "Sulfuric acid",
+                          "answer_3":  "Nitric acid",
+                          "answer_4":  "Acetic acid",
+                          "right_answer":  "Sulfuric acid"
+                      },
+                      {
+                          "answer":  "What type of mixture can be separated by filtration?",
+                          "answer_1":  "Salt in water",
+                          "answer_2":  "Sand in water",
+                          "answer_3":  "Air",
+                          "answer_4":  "Sugar solution",
+                          "right_answer":  "Sand in water"
+                      },
+                      {
+                          "answer":  "Which element is essential for most organic compounds?",
+                          "answer_1":  "Carbon",
+                          "answer_2":  "Iron",
+                          "answer_3":  "Neon",
+                          "answer_4":  "Calcium",
+                          "right_answer":  "Carbon"
+                      },
+                      {
+                          "answer":  "What does a catalyst do?",
+                          "answer_1":  "Slows every reaction",
+                          "answer_2":  "Speeds reaction without being used up",
+                          "answer_3":  "Changes products randomly",
+                          "answer_4":  "Adds mass to atoms",
+                          "right_answer":  "Speeds reaction without being used up"
+                      },
+                      {
+                          "answer":  "What is the symbol for iron?",
+                          "answer_1":  "Ir",
+                          "answer_2":  "In",
+                          "answer_3":  "Fe",
+                          "answer_4":  "i",
+                          "right_answer":  "Fe"
+                      },
+                      {
+                          "answer":  "Which substance turns red litmus blue?",
+                          "answer_1":  "Acid",
+                          "answer_2":  "Base",
+                          "answer_3":  "Salt",
+                          "answer_4":  "Pure water only",
+                          "right_answer":  "Base"
+                      },
+                      {
+                          "answer":  "What is the molar mass of O2?",
+                          "answer_1":  "16 g/mol",
+                          "answer_2":  "18 g/mol",
+                          "answer_3":  "32 g/mol",
+                          "answer_4":  "34 g/mol",
+                          "right_answer":  "32 g/mol"
+                      },
+                      {
+                          "answer":  "How many atoms are in H2SO4?",
+                          "answer_1":  "5",
+                          "answer_2":  "6",
+                          "answer_3":  "7",
+                          "answer_4":  "8",
+                          "right_answer":  "7"
+                      },
+                      {
+                          "answer":  "Which reaction releases heat to the surroundings?",
+                          "answer_1":  "Endothermic",
+                          "answer_2":  "Exothermic",
+                          "answer_3":  "Neutral only",
+                          "answer_4":  "Reversible only",
+                          "right_answer":  "Exothermic"
+                      },
+                      {
+                          "answer":  "What is the oxidation number of oxygen in most compounds?",
+                          "answer_1":  "0",
+                          "answer_2":  "-1",
+                          "answer_3":  "-2",
+                          "answer_4":  "+2",
+                          "right_answer":  "-2"
+                      },
+                      {
+                          "answer":  "What type of reaction is Zn + CuSO4 в†’ ZnSO4 + Cu?",
+                          "answer_1":  "Synthesis",
+                          "answer_2":  "Single replacement",
+                          "answer_3":  "Decomposition",
+                          "answer_4":  "Combustion",
+                          "right_answer":  "Single replacement"
+                      },
+                      {
+                          "answer":  "Which gas is produced when an acid reacts with a carbonate?",
+                          "answer_1":  "Oxygen",
+                          "answer_2":  "Hydrogen",
+                          "answer_3":  "Carbon dioxide",
+                          "answer_4":  "Nitrogen",
+                          "right_answer":  "Carbon dioxide"
+                      },
+                      {
+                          "answer":  "What does Avogadro number count?",
+                          "answer_1":  "Moles of heat",
+                          "answer_2":  "Particles per mole",
+                          "answer_3":  "Liters of gas",
+                          "answer_4":  "Types of bonds",
+                          "right_answer":  "Particles per mole"
+                      },
+                      {
+                          "answer":  "Which process separates crude oil into fractions?",
+                          "answer_1":  "Filtration",
+                          "answer_2":  "Fractional distillation",
+                          "answer_3":  "Neutralization",
+                          "answer_4":  "Electrolysis",
+                          "right_answer":  "Fractional distillation"
+                      },
+                      {
+                          "answer":  "What is the empirical formula of glucose C6H12O6?",
+                          "answer_1":  "CH2O",
+                          "answer_2":  "C6H12O6",
+                          "answer_3":  "C3H6O3",
+                          "answer_4":  "CHO",
+                          "right_answer":  "CH2O"
+                      },
+                      {
+                          "answer":  "What kind of solid is sodium chloride?",
+                          "answer_1":  "Molecular",
+                          "answer_2":  "Ionic",
+                          "answer_3":  "Metallic",
+                          "answer_4":  "Network gas",
+                          "right_answer":  "Ionic"
+                      },
+                      {
+                          "answer":  "What happens to equilibrium when more reactant is added?",
+                          "answer_1":  "Shifts to products",
+                          "answer_2":  "Shifts to reactants",
+                          "answer_3":  "Stops forever",
+                          "answer_4":  "Becomes neutral only",
+                          "right_answer":  "Shifts to products"
+                      },
+                      {
+                          "answer":  "Which gas law relates pressure and temperature at constant volume?",
+                          "answer_1":  "Boyle law",
+                          "answer_2":  "Charles law",
+                          "answer_3":  "Gay-Lussac law",
+                          "answer_4":  "Dalton law",
+                          "right_answer":  "Gay-Lussac law"
+                      },
+                      {
+                          "answer":  "What is electrolysis used for?",
+                          "answer_1":  "Use electricity to drive chemical change",
+                          "answer_2":  "Measure mass only",
+                          "answer_3":  "Cool liquids",
+                          "answer_4":  "Sort metals by color",
+                          "right_answer":  "Use electricity to drive chemical change"
+                      },
+                      {
+                          "answer":  "Which orbital is filled first?",
+                          "answer_1":  "2p",
+                          "answer_2":  "3s",
+                          "answer_3":  "1s",
+                          "answer_4":  "3d",
+                          "right_answer":  "1s"
+                      },
+                      {
+                          "answer":  "What is the hybridization in methane CH4?",
+                          "answer_1":  "sp",
+                          "answer_2":  "sp2",
+                          "answer_3":  "sp3",
+                          "answer_4":  "dsp2",
+                          "right_answer":  "sp3"
+                      },
+                      {
+                          "answer":  "Which functional group defines alcohols?",
+                          "answer_1":  "вЂ“COOH",
+                          "answer_2":  "вЂ“OH",
+                          "answer_3":  "вЂ“NH2",
+                          "answer_4":  "вЂ“CHO",
+                          "right_answer":  "вЂ“OH"
+                      },
+                      {
+                          "answer":  "What polymer is made from ethene monomers?",
+                          "answer_1":  "PVC",
+                          "answer_2":  "Polyethene",
+                          "answer_3":  "Nylon",
+                          "answer_4":  "Protein",
+                          "right_answer":  "Polyethene"
+                      },
+                      {
+                          "answer":  "Which molecule has a trigonal planar shape?",
+                          "answer_1":  "CH4",
+                          "answer_2":  "NH3",
+                          "answer_3":  "BF3",
+                          "answer_4":  "H2O",
+                          "right_answer":  "BF3"
+                      },
+                      {
+                          "answer":  "What is the oxidation number of sulfur in SO4^2-?",
+                          "answer_1":  "+4",
+                          "answer_2":  "+5",
+                          "answer_3":  "+6",
+                          "answer_4":  "-2",
+                          "right_answer":  "+6"
+                      },
+                      {
+                          "answer":  "Which spectroscopy is commonly used to identify organic functional groups?",
+                          "answer_1":  "Ir",
+                          "answer_2":  "Seismic",
+                          "answer_3":  "Thermal",
+                          "answer_4":  "Magnetic only",
+                          "right_answer":  "Ir"
+                      },
+                      {
+                          "answer":  "What is the main product of complete combustion of hydrocarbons besides water?",
+                          "answer_1":  "Carbon monoxide",
+                          "answer_2":  "Carbon dioxide",
+                          "answer_3":  "Methane",
+                          "answer_4":  "Hydrogen",
+                          "right_answer":  "Carbon dioxide"
+                      },
+                      {
+                          "answer":  "Which ion causes hardness in water most commonly?",
+                          "answer_1":  "Na+",
+                          "answer_2":  "Ca2+",
+                          "answer_3":  "K+",
+                          "answer_4":  "Cl-",
+                          "right_answer":  "Ca2+"
+                      },
+                      {
+                          "answer":  "What is the purpose of a buffer solution?",
+                          "answer_1":  "Keep pH nearly constant",
+                          "answer_2":  "Make all solutions acidic",
+                          "answer_3":  "Increase all reaction rates",
+                          "answer_4":  "Freeze solvents",
+                          "right_answer":  "Keep pH nearly constant"
+                      },
+                      {
+                          "answer":  "Which process converts liquid directly to gas?",
+                          "answer_1":  "Melting",
+                          "answer_2":  "Sublimation",
+                          "answer_3":  "Evaporation",
+                          "answer_4":  "Condensation",
+                          "right_answer":  "Evaporation"
+                      },
+                      {
+                          "answer":  "What is the geometry around carbon in ethene C2H4?",
+                          "answer_1":  "Linear",
+                          "answer_2":  "Trigonal planar",
+                          "answer_3":  "Tetrahedral",
+                          "answer_4":  "Octahedral",
+                          "right_answer":  "Trigonal planar"
+                      },
+                      {
+                          "answer":  "Which element is reduced in Fe2O3 + 3CO в†’ 2Fe + 3CO2?",
+                          "answer_1":  "Carbon",
+                          "answer_2":  "Iron",
+                          "answer_3":  "Oxygen",
+                          "answer_4":  "All of them equally",
+                          "right_answer":  "Iron"
+                      },
+                      {
+                          "answer":  "What is the common name for HCl dissolved in water?",
+                          "answer_1":  "Nitric acid",
+                          "answer_2":  "Hydrochloric acid",
+                          "answer_3":  "Sulfuric acid",
+                          "answer_4":  "Carbonic acid",
+                          "right_answer":  "Hydrochloric acid"
+                      },
+                      {
+                          "answer":  "Which particle determines the identity of an element?",
+                          "answer_1":  "Neutron number",
+                          "answer_2":  "Proton number",
+                          "answer_3":  "Electron cloud size",
+                          "answer_4":  "Color",
+                          "right_answer":  "Proton number"
+                      },
+                      {
+                          "answer":  "What is the strongest intermolecular force among the options?",
+                          "answer_1":  "London dispersion",
+                          "answer_2":  "Dipole-dipole",
+                          "answer_3":  "Hydrogen bonding",
+                          "answer_4":  "Weak nuclear",
+                          "right_answer":  "Hydrogen bonding"
+                      },
+                      {
+                          "answer":  "What does a lower pKa generally indicate?",
+                          "answer_1":  "Stronger acid",
+                          "answer_2":  "Weaker acid",
+                          "answer_3":  "Stronger base",
+                          "answer_4":  "No acidity",
+                          "right_answer":  "Stronger acid"
+                      },
+                      {
+                          "answer":  "Which method can determine the concentration of an acid accurately with a base?",
+                          "answer_1":  "Titration",
+                          "answer_2":  "Filtration",
+                          "answer_3":  "Crystallization",
+                          "answer_4":  "Sieving",
+                          "right_answer":  "Titration"
+                      }
+                  ]
+}

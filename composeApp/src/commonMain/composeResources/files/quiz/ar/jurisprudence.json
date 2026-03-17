@@ -1,0 +1,405 @@
+﻿{
+    "theme_name":  "الفقه",
+    "questions":  [
+                      {
+                          "answer":  "What does jurisprudence study?",
+                          "answer_1":  "Stars only",
+                          "answer_2":  "Rules, duties, and judgments",
+                          "answer_3":  "Chemical reactions",
+                          "answer_4":  "Plant growth",
+                          "right_answer":  "Rules, duties, and judgments"
+                      },
+                      {
+                          "answer":  "Which idea means an action is required?",
+                          "answer_1":  "Permissible",
+                          "answer_2":  "Recommended",
+                          "answer_3":  "Obligatory",
+                          "answer_4":  "Disliked",
+                          "right_answer":  "Obligatory"
+                      },
+                      {
+                          "answer":  "What is needed before judging a case fairly?",
+                          "answer_1":  "Assumption only",
+                          "answer_2":  "Evidence",
+                          "answer_3":  "Silence always",
+                          "answer_4":  "Speed only",
+                          "right_answer":  "Evidence"
+                      },
+                      {
+                          "answer":  "What term means something is allowed?",
+                          "answer_1":  "Forbidden",
+                          "answer_2":  "Permissible",
+                          "answer_3":  "Void",
+                          "answer_4":  "Invalid",
+                          "right_answer":  "Permissible"
+                      },
+                      {
+                          "answer":  "Why are rules written clearly?",
+                          "answer_1":  "To confuse people",
+                          "answer_2":  "To guide people fairly",
+                          "answer_3":  "To remove all choices",
+                          "answer_4":  "To shorten books only",
+                          "right_answer":  "To guide people fairly"
+                      },
+                      {
+                          "answer":  "What should a witness do?",
+                          "answer_1":  "Hide facts",
+                          "answer_2":  "Tell the truth",
+                          "answer_3":  "Guess often",
+                          "answer_4":  "Change story",
+                          "right_answer":  "Tell the truth"
+                      },
+                      {
+                          "answer":  "Which value is central to justice?",
+                          "answer_1":  "Bias",
+                          "answer_2":  "Fairness",
+                          "answer_3":  "Haste",
+                          "answer_4":  "Anger",
+                          "right_answer":  "Fairness"
+                      },
+                      {
+                          "answer":  "What is a contract based on?",
+                          "answer_1":  "Offer and acceptance",
+                          "answer_2":  "Weather",
+                          "answer_3":  "Force only",
+                          "answer_4":  "Memory alone",
+                          "right_answer":  "Offer and acceptance"
+                      },
+                      {
+                          "answer":  "What term means a rule should not harm people without reason?",
+                          "answer_1":  "Public benefit",
+                          "answer_2":  "Unjust harm",
+                          "answer_3":  "Hidden clause",
+                          "answer_4":  "Silence",
+                          "right_answer":  "Public benefit"
+                      },
+                      {
+                          "answer":  "What is the purpose of records in legal matters?",
+                          "answer_1":  "Forget details",
+                          "answer_2":  "Keep reliable information",
+                          "answer_3":  "Replace witnesses always",
+                          "answer_4":  "Increase confusion",
+                          "right_answer":  "Keep reliable information"
+                      },
+                      {
+                          "answer":  "What makes a promise legally stronger?",
+                          "answer_1":  "Clarity and consent",
+                          "answer_2":  "Loud voice only",
+                          "answer_3":  "Anger",
+                          "answer_4":  "Secrecy",
+                          "right_answer":  "Clarity and consent"
+                      },
+                      {
+                          "answer":  "What should a judge avoid?",
+                          "answer_1":  "Listening",
+                          "answer_2":  "Bias",
+                          "answer_3":  "Evidence",
+                          "answer_4":  "Patience",
+                          "right_answer":  "Bias"
+                      },
+                      {
+                          "answer":  "What is responsibility?",
+                          "answer_1":  "Ignoring duties",
+                          "answer_2":  "Being accountable for actions",
+                          "answer_3":  "Owning every object",
+                          "answer_4":  "Traveling often",
+                          "right_answer":  "Being accountable for actions"
+                      },
+                      {
+                          "answer":  "What protects people in agreements?",
+                          "answer_1":  "Ambiguity",
+                          "answer_2":  "Clear terms",
+                          "answer_3":  "Noise",
+                          "answer_4":  "Delay only",
+                          "right_answer":  "Clear terms"
+                      },
+                      {
+                          "answer":  "What should happen if a rule conflicts with justice?",
+                          "answer_1":  "Ignore justice",
+                          "answer_2":  "Re-examine the rule",
+                          "answer_3":  "Hide the conflict",
+                          "answer_4":  "Punish everyone",
+                          "right_answer":  "Re-examine the rule"
+                      },
+                      {
+                          "answer":  "What is consent in a legal agreement?",
+                          "answer_1":  "Free acceptance",
+                          "answer_2":  "Secret doubt",
+                          "answer_3":  "Forced silence",
+                          "answer_4":  "Random chance",
+                          "right_answer":  "Free acceptance"
+                      },
+                      {
+                          "answer":  "Which action breaks trust in testimony?",
+                          "answer_1":  "Truthfulness",
+                          "answer_2":  "Lying",
+                          "answer_3":  "Accuracy",
+                          "answer_4":  "Consistency",
+                          "right_answer":  "Lying"
+                      },
+                      {
+                          "answer":  "Why is intention important in jurisprudence?",
+                          "answer_1":  "It shows purpose behind actions",
+                          "answer_2":  "It changes chemistry",
+                          "answer_3":  "It replaces evidence always",
+                          "answer_4":  "It removes all duties",
+                          "right_answer":  "It shows purpose behind actions"
+                      },
+                      {
+                          "answer":  "What is due process mainly about?",
+                          "answer_1":  "Fair procedure",
+                          "answer_2":  "Fast punishment only",
+                          "answer_3":  "Silence",
+                          "answer_4":  "Ignoring rights",
+                          "right_answer":  "Fair procedure"
+                      },
+                      {
+                          "answer":  "What helps resolve disputes peacefully?",
+                          "answer_1":  "Dialogue and evidence",
+                          "answer_2":  "Shouting",
+                          "answer_3":  "Rumors",
+                          "answer_4":  "Delay only",
+                          "right_answer":  "Dialogue and evidence"
+                      },
+                      {
+                          "answer":  "What is a legal right?",
+                          "answer_1":  "A protected claim or freedom",
+                          "answer_2":  "A random wish",
+                          "answer_3":  "A hidden punishment",
+                          "answer_4":  "A chemistry term",
+                          "right_answer":  "A protected claim or freedom"
+                      },
+                      {
+                          "answer":  "What is a legal duty?",
+                          "answer_1":  "An optional hobby",
+                          "answer_2":  "An obligation required by rule",
+                          "answer_3":  "A rumor",
+                          "answer_4":  "A star map",
+                          "right_answer":  "An obligation required by rule"
+                      },
+                      {
+                          "answer":  "What weakens a contract?",
+                          "answer_1":  "Clear wording",
+                          "answer_2":  "Fraud",
+                          "answer_3":  "Witnesses",
+                          "answer_4":  "Mutual consent",
+                          "right_answer":  "Fraud"
+                      },
+                      {
+                          "answer":  "What is mediation?",
+                          "answer_1":  "A neutral help to settle a dispute",
+                          "answer_2":  "A prison term",
+                          "answer_3":  "A tax",
+                          "answer_4":  "A military order",
+                          "right_answer":  "A neutral help to settle a dispute"
+                      },
+                      {
+                          "answer":  "Why is equality before the law important?",
+                          "answer_1":  "It supports justice",
+                          "answer_2":  "It removes evidence",
+                          "answer_3":  "It ends all duties",
+                          "answer_4":  "It changes language",
+                          "right_answer":  "It supports justice"
+                      },
+                      {
+                          "answer":  "What does liability mean?",
+                          "answer_1":  "Freedom from all consequences",
+                          "answer_2":  "Responsibility for harm or obligation",
+                          "answer_3":  "A type of contract only",
+                          "answer_4":  "A court building",
+                          "right_answer":  "Responsibility for harm or obligation"
+                      },
+                      {
+                          "answer":  "What can make testimony stronger?",
+                          "answer_1":  "Consistency with evidence",
+                          "answer_2":  "Changing details",
+                          "answer_3":  "Fear",
+                          "answer_4":  "Guessing",
+                          "right_answer":  "Consistency with evidence"
+                      },
+                      {
+                          "answer":  "What should happen to unclear terms in an agreement?",
+                          "answer_1":  "Leave them unclear",
+                          "answer_2":  "Clarify them",
+                          "answer_3":  "Hide them",
+                          "answer_4":  "Ignore both sides",
+                          "right_answer":  "Clarify them"
+                      },
+                      {
+                          "answer":  "What is restitution?",
+                          "answer_1":  "Returning or compensating for loss",
+                          "answer_2":  "A new crime",
+                          "answer_3":  "A secret note",
+                          "answer_4":  "An emotion",
+                          "right_answer":  "Returning or compensating for loss"
+                      },
+                      {
+                          "answer":  "Why are precedents useful?",
+                          "answer_1":  "They provide guidance from earlier cases",
+                          "answer_2":  "They remove thinking",
+                          "answer_3":  "They replace justice",
+                          "answer_4":  "They prevent all disputes",
+                          "right_answer":  "They provide guidance from earlier cases"
+                      },
+                      {
+                          "answer":  "What is the main goal of legal interpretation?",
+                          "answer_1":  "Understand the rule correctly",
+                          "answer_2":  "Make every rule longer",
+                          "answer_3":  "Hide meaning",
+                          "answer_4":  "Change mathematics",
+                          "right_answer":  "Understand the rule correctly"
+                      },
+                      {
+                          "answer":  "What does a valid contract usually require besides consent?",
+                          "answer_1":  "A lawful subject",
+                          "answer_2":  "A secret code",
+                          "answer_3":  "A moon phase",
+                          "answer_4":  "A loud promise",
+                          "right_answer":  "A lawful subject"
+                      },
+                      {
+                          "answer":  "What is negligence?",
+                          "answer_1":  "Careless failure to act properly",
+                          "answer_2":  "Perfect caution",
+                          "answer_3":  "A legal victory",
+                          "answer_4":  "A type of evidence",
+                          "right_answer":  "Careless failure to act properly"
+                      },
+                      {
+                          "answer":  "Why is confidentiality sometimes important?",
+                          "answer_1":  "To protect sensitive information",
+                          "answer_2":  "To hide all truth",
+                          "answer_3":  "To stop records",
+                          "answer_4":  "To avoid duties",
+                          "right_answer":  "To protect sensitive information"
+                      },
+                      {
+                          "answer":  "What is the burden of proof?",
+                          "answer_1":  "Who must present evidence",
+                          "answer_2":  "Who speaks first only",
+                          "answer_3":  "Who writes faster",
+                          "answer_4":  "Who is older",
+                          "right_answer":  "Who must present evidence"
+                      },
+                      {
+                          "answer":  "What should law discourage?",
+                          "answer_1":  "Harmful conduct",
+                          "answer_2":  "Honesty",
+                          "answer_3":  "Education",
+                          "answer_4":  "Fair trade",
+                          "right_answer":  "Harmful conduct"
+                      },
+                      {
+                          "answer":  "What is legal capacity?",
+                          "answer_1":  "Ability to hold rights and duties",
+                          "answer_2":  "Owning a vehicle",
+                          "answer_3":  "Speaking loudly",
+                          "answer_4":  "Writing poetry",
+                          "right_answer":  "Ability to hold rights and duties"
+                      },
+                      {
+                          "answer":  "What does an appeal allow?",
+                          "answer_1":  "Review of a decision",
+                          "answer_2":  "Ignoring all courts",
+                          "answer_3":  "Changing witnesses randomly",
+                          "answer_4":  "Canceling evidence forever",
+                          "right_answer":  "Review of a decision"
+                      },
+                      {
+                          "answer":  "What principle prevents punishment without a clear rule?",
+                          "answer_1":  "Legality",
+                          "answer_2":  "Silence",
+                          "answer_3":  "Haste",
+                          "answer_4":  "Secrecy",
+                          "right_answer":  "Legality"
+                      },
+                      {
+                          "answer":  "Why should judges explain decisions?",
+                          "answer_1":  "To show reasoning and fairness",
+                          "answer_2":  "To create mystery",
+                          "answer_3":  "To avoid records",
+                          "answer_4":  "To shorten proceedings only",
+                          "right_answer":  "To show reasoning and fairness"
+                      },
+                      {
+                          "answer":  "What is an unlawful gain?",
+                          "answer_1":  "Benefit obtained against rules",
+                          "answer_2":  "A fair salary",
+                          "answer_3":  "A gift between friends",
+                          "answer_4":  "A textbook",
+                          "right_answer":  "Benefit obtained against rules"
+                      },
+                      {
+                          "answer":  "What is arbitration?",
+                          "answer_1":  "A chosen neutral decides a dispute",
+                          "answer_2":  "A chemistry test",
+                          "answer_3":  "A tax increase",
+                          "answer_4":  "A traffic signal",
+                          "right_answer":  "A chosen neutral decides a dispute"
+                      },
+                      {
+                          "answer":  "What should happen when two rights conflict?",
+                          "answer_1":  "Balance them carefully",
+                          "answer_2":  "Ignore both",
+                          "answer_3":  "Reward the louder side",
+                          "answer_4":  "Choose randomly",
+                          "right_answer":  "Balance them carefully"
+                      },
+                      {
+                          "answer":  "Why are legal definitions important?",
+                          "answer_1":  "They reduce confusion",
+                          "answer_2":  "They erase duties",
+                          "answer_3":  "They replace evidence",
+                          "answer_4":  "They stop debate forever",
+                          "right_answer":  "They reduce confusion"
+                      },
+                      {
+                          "answer":  "What is coercion in law?",
+                          "answer_1":  "Force that removes free choice",
+                          "answer_2":  "Friendly advice",
+                          "answer_3":  "Clear consent",
+                          "answer_4":  "A public record",
+                          "right_answer":  "Force that removes free choice"
+                      },
+                      {
+                          "answer":  "What does a remedy provide?",
+                          "answer_1":  "A response to a wrong",
+                          "answer_2":  "A random gift",
+                          "answer_3":  "A school holiday",
+                          "answer_4":  "An unrelated rule",
+                          "right_answer":  "A response to a wrong"
+                      },
+                      {
+                          "answer":  "What supports trust in institutions?",
+                          "answer_1":  "Transparency and fairness",
+                          "answer_2":  "Secrecy and bias",
+                          "answer_3":  "Delay only",
+                          "answer_4":  "Contradictory records",
+                          "right_answer":  "Transparency and fairness"
+                      },
+                      {
+                          "answer":  "What is the best basis for a fair judgment?",
+                          "answer_1":  "Evidence and principle",
+                          "answer_2":  "Rumor and anger",
+                          "answer_3":  "Speed alone",
+                          "answer_4":  "Personal preference",
+                          "right_answer":  "Evidence and principle"
+                      },
+                      {
+                          "answer":  "What does revoking a contract mean?",
+                          "answer_1":  "Ending its legal effect",
+                          "answer_2":  "Making it secret",
+                          "answer_3":  "Adding new crimes",
+                          "answer_4":  "Changing language only",
+                          "right_answer":  "Ending its legal effect"
+                      },
+                      {
+                          "answer":  "Why is public benefit considered in jurisprudence?",
+                          "answer_1":  "To protect community welfare",
+                          "answer_2":  "To ignore individuals",
+                          "answer_3":  "To remove justice",
+                          "answer_4":  "To stop learning",
+                          "right_answer":  "To protect community welfare"
+                      }
+                  ]
+}

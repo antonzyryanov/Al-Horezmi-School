@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="composeApp Android" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+    <module name="composeApp" />
+    <option name="ACTIVITY_CLASS" value="com.alhorezmi.school.MainActivity" />
+    <option name="MODE" value="default_activity" />
+    <option name="DEPLOY" value="true" />
+    <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+    <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+    <method v="2">
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks=":composeApp:installDebug" externalProjectPath="$PROJECT_DIR$" vmOptions="" scriptParameters="" />
+    </method>
+  </configuration>
+</component>

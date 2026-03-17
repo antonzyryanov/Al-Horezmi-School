@@ -1,0 +1,405 @@
+﻿{
+    "theme_name":  "Astronomy",
+    "questions":  [
+                      {
+                          "answer":  "Which star is at the center of our solar system?",
+                          "answer_1":  "Polaris",
+                          "answer_2":  "Sirius",
+                          "answer_3":  "Sun",
+                          "answer_4":  "Betelgeuse",
+                          "right_answer":  "Sun"
+                      },
+                      {
+                          "answer":  "Which planet is known as the Red Planet?",
+                          "answer_1":  "Venus",
+                          "answer_2":  "Mars",
+                          "answer_3":  "Jupiter",
+                          "answer_4":  "Mercury",
+                          "right_answer":  "Mars"
+                      },
+                      {
+                          "answer":  "What body orbits the Earth?",
+                          "answer_1":  "Sun",
+                          "answer_2":  "Moon",
+                          "answer_3":  "Mars",
+                          "answer_4":  "Venus",
+                          "right_answer":  "Moon"
+                      },
+                      {
+                          "answer":  "Which planet is closest to the Sun?",
+                          "answer_1":  "Mercury",
+                          "answer_2":  "Venus",
+                          "answer_3":  "Earth",
+                          "answer_4":  "Mars",
+                          "right_answer":  "Mercury"
+                      },
+                      {
+                          "answer":  "What tool is used to observe distant space objects?",
+                          "answer_1":  "Microscope",
+                          "answer_2":  "Telescope",
+                          "answer_3":  "Barometer",
+                          "answer_4":  "Compass",
+                          "right_answer":  "Telescope"
+                      },
+                      {
+                          "answer":  "Which planet has prominent rings?",
+                          "answer_1":  "Earth",
+                          "answer_2":  "Mars",
+                          "answer_3":  "Saturn",
+                          "answer_4":  "Venus",
+                          "right_answer":  "Saturn"
+                      },
+                      {
+                          "answer":  "What is a galaxy?",
+                          "answer_1":  "A group of stars, gas, and dust",
+                          "answer_2":  "A single planet",
+                          "answer_3":  "A telescope lens",
+                          "answer_4":  "A moon crater",
+                          "right_answer":  "A group of stars, gas, and dust"
+                      },
+                      {
+                          "answer":  "What causes day and night on Earth?",
+                          "answer_1":  "Earth rotation",
+                          "answer_2":  "Moon rotation",
+                          "answer_3":  "Sun orbiting Earth",
+                          "answer_4":  "Comets",
+                          "right_answer":  "Earth rotation"
+                      },
+                      {
+                          "answer":  "Which planet do we live on?",
+                          "answer_1":  "Mars",
+                          "answer_2":  "Earth",
+                          "answer_3":  "Jupiter",
+                          "answer_4":  "Neptune",
+                          "right_answer":  "Earth"
+                      },
+                      {
+                          "answer":  "What is the Sun mainly made of?",
+                          "answer_1":  "Iron and rock",
+                          "answer_2":  "Hydrogen and helium",
+                          "answer_3":  "Ice and dust",
+                          "answer_4":  "Water and oxygen",
+                          "right_answer":  "Hydrogen and helium"
+                      },
+                      {
+                          "answer":  "What causes the phases of the Moon?",
+                          "answer_1":  "Changing view of sunlit part",
+                          "answer_2":  "Earth shadow every night",
+                          "answer_3":  "Moon makes its own light",
+                          "answer_4":  "Clouds",
+                          "right_answer":  "Changing view of sunlit part"
+                      },
+                      {
+                          "answer":  "How long does Earth take to orbit the Sun?",
+                          "answer_1":  "24 hours",
+                          "answer_2":  "30 days",
+                          "answer_3":  "365 days",
+                          "answer_4":  "10 years",
+                          "right_answer":  "365 days"
+                      },
+                      {
+                          "answer":  "Which planet is the largest in the solar system?",
+                          "answer_1":  "Saturn",
+                          "answer_2":  "Earth",
+                          "answer_3":  "Jupiter",
+                          "answer_4":  "Neptune",
+                          "right_answer":  "Jupiter"
+                      },
+                      {
+                          "answer":  "What is a comet mostly made of?",
+                          "answer_1":  "Ice and dust",
+                          "answer_2":  "Liquid metal",
+                          "answer_3":  "Pure oxygen",
+                          "answer_4":  "Only rock",
+                          "right_answer":  "Ice and dust"
+                      },
+                      {
+                          "answer":  "What is an eclipse of the Sun called?",
+                          "answer_1":  "Solar eclipse",
+                          "answer_2":  "Lunar eclipse",
+                          "answer_3":  "Meteor shower",
+                          "answer_4":  "Equinox",
+                          "right_answer":  "Solar eclipse"
+                      },
+                      {
+                          "answer":  "Which planet is famous for its Great Red Spot?",
+                          "answer_1":  "Mars",
+                          "answer_2":  "Jupiter",
+                          "answer_3":  "Saturn",
+                          "answer_4":  "Mercury",
+                          "right_answer":  "Jupiter"
+                      },
+                      {
+                          "answer":  "What is a light-year a unit of?",
+                          "answer_1":  "Time",
+                          "answer_2":  "Distance",
+                          "answer_3":  "Brightness",
+                          "answer_4":  "Mass",
+                          "right_answer":  "Distance"
+                      },
+                      {
+                          "answer":  "What type of object is Polaris?",
+                          "answer_1":  "Planet",
+                          "answer_2":  "Star",
+                          "answer_3":  "Galaxy",
+                          "answer_4":  "Asteroid",
+                          "right_answer":  "Star"
+                      },
+                      {
+                          "answer":  "What is an asteroid?",
+                          "answer_1":  "Small rocky body orbiting the Sun",
+                          "answer_2":  "A gas giant",
+                          "answer_3":  "A black hole",
+                          "answer_4":  "A moon atmosphere",
+                          "right_answer":  "Small rocky body orbiting the Sun"
+                      },
+                      {
+                          "answer":  "Which planet has the longest year among the inner planets?",
+                          "answer_1":  "Mercury",
+                          "answer_2":  "Venus",
+                          "answer_3":  "Earth",
+                          "answer_4":  "Mars",
+                          "right_answer":  "Mars"
+                      },
+                      {
+                          "answer":  "What keeps planets in orbit around the Sun?",
+                          "answer_1":  "Magnetism only",
+                          "answer_2":  "Gravity",
+                          "answer_3":  "Air pressure",
+                          "answer_4":  "Sound waves",
+                          "right_answer":  "Gravity"
+                      },
+                      {
+                          "answer":  "What is the name of our galaxy?",
+                          "answer_1":  "Andromeda",
+                          "answer_2":  "Milky Way",
+                          "answer_3":  "Whirlpool",
+                          "answer_4":  "Triangulum",
+                          "right_answer":  "Milky Way"
+                      },
+                      {
+                          "answer":  "What is a nebula?",
+                          "answer_1":  "Cloud of gas and dust in space",
+                          "answer_2":  "A moon crater",
+                          "answer_3":  "A type of telescope",
+                          "answer_4":  "A solar wind only",
+                          "right_answer":  "Cloud of gas and dust in space"
+                      },
+                      {
+                          "answer":  "Which planet has the strongest surface gravity among the options?",
+                          "answer_1":  "Earth",
+                          "answer_2":  "Mars",
+                          "answer_3":  "Jupiter",
+                          "answer_4":  "Mercury",
+                          "right_answer":  "Jupiter"
+                      },
+                      {
+                          "answer":  "What causes seasons on Earth?",
+                          "answer_1":  "Distance from the Sun only",
+                          "answer_2":  "Earth axial tilt",
+                          "answer_3":  "Moon phases",
+                          "answer_4":  "Clouds",
+                          "right_answer":  "Earth axial tilt"
+                      },
+                      {
+                          "answer":  "Which object can become a black hole after massive stellar collapse?",
+                          "answer_1":  "A large star",
+                          "answer_2":  "A small asteroid",
+                          "answer_3":  "A moon",
+                          "answer_4":  "A cloud only",
+                          "right_answer":  "A large star"
+                      },
+                      {
+                          "answer":  "What do astronomers study with spectra?",
+                          "answer_1":  "Composition and motion of objects",
+                          "answer_2":  "Only shape of mountains",
+                          "answer_3":  "Only weather on Earth",
+                          "answer_4":  "Ocean depth",
+                          "right_answer":  "Composition and motion of objects"
+                      },
+                      {
+                          "answer":  "Which planet has a day longer than its year?",
+                          "answer_1":  "Venus",
+                          "answer_2":  "Earth",
+                          "answer_3":  "Mars",
+                          "answer_4":  "Neptune",
+                          "right_answer":  "Venus"
+                      },
+                      {
+                          "answer":  "What is cosmic redshift evidence for?",
+                          "answer_1":  "Universe expansion",
+                          "answer_2":  "Earth rotation",
+                          "answer_3":  "Moon phases",
+                          "answer_4":  "Comet tails",
+                          "right_answer":  "Universe expansion"
+                      },
+                      {
+                          "answer":  "What powers the Sun?",
+                          "answer_1":  "Chemical burning",
+                          "answer_2":  "Nuclear fusion",
+                          "answer_3":  "Coal combustion",
+                          "answer_4":  "Electric battery",
+                          "right_answer":  "Nuclear fusion"
+                      },
+                      {
+                          "answer":  "What is the event horizon of a black hole?",
+                          "answer_1":  "Boundary beyond which light cannot escape",
+                          "answer_2":  "Its center only",
+                          "answer_3":  "A ring of ice",
+                          "answer_4":  "A telescope error",
+                          "right_answer":  "Boundary beyond which light cannot escape"
+                      },
+                      {
+                          "answer":  "Which planet is tilted so much that it rotates almost on its side?",
+                          "answer_1":  "Saturn",
+                          "answer_2":  "Uranus",
+                          "answer_3":  "Mercury",
+                          "answer_4":  "Mars",
+                          "right_answer":  "Uranus"
+                      },
+                      {
+                          "answer":  "What is an exoplanet?",
+                          "answer_1":  "Planet outside our solar system",
+                          "answer_2":  "Moon of Jupiter",
+                          "answer_3":  "A comet near Earth",
+                          "answer_4":  "A star cluster",
+                          "right_answer":  "Planet outside our solar system"
+                      },
+                      {
+                          "answer":  "Which law relates orbital period and orbital distance?",
+                          "answer_1":  "Kepler third law",
+                          "answer_2":  "Newton first law",
+                          "answer_3":  "Ohm law",
+                          "answer_4":  "Hubble law",
+                          "right_answer":  "Kepler third law"
+                      },
+                      {
+                          "answer":  "What is a pulsar?",
+                          "answer_1":  "Rapidly rotating neutron star",
+                          "answer_2":  "A newborn planet",
+                          "answer_3":  "A red giant cloud",
+                          "answer_4":  "A comet tail",
+                          "right_answer":  "Rapidly rotating neutron star"
+                      },
+                      {
+                          "answer":  "What do astronomers call the apparent brightness of a star from Earth?",
+                          "answer_1":  "Apparent magnitude",
+                          "answer_2":  "Absolute mass",
+                          "answer_3":  "Orbital tilt",
+                          "answer_4":  "Density class",
+                          "right_answer":  "Apparent magnitude"
+                      },
+                      {
+                          "answer":  "What is the approximate age of the universe accepted in modern cosmology?",
+                          "answer_1":  "13.8 billion years",
+                          "answer_2":  "4.5 million years",
+                          "answer_3":  "500 years",
+                          "answer_4":  "100 billion years",
+                          "right_answer":  "13.8 billion years"
+                      },
+                      {
+                          "answer":  "What is the Roche limit related to?",
+                          "answer_1":  "Tidal breakup of orbiting bodies",
+                          "answer_2":  "Star color",
+                          "answer_3":  "Moon phases",
+                          "answer_4":  "Solar wind",
+                          "right_answer":  "Tidal breakup of orbiting bodies"
+                      },
+                      {
+                          "answer":  "What is dark matter inferred from?",
+                          "answer_1":  "Gravitational effects",
+                          "answer_2":  "Its bright blue light",
+                          "answer_3":  "Its smell",
+                          "answer_4":  "Ocean waves",
+                          "right_answer":  "Gravitational effects"
+                      },
+                      {
+                          "answer":  "Which planet has the largest volcano in the solar system?",
+                          "answer_1":  "Earth",
+                          "answer_2":  "Mars",
+                          "answer_3":  "Venus",
+                          "answer_4":  "Mercury",
+                          "right_answer":  "Mars"
+                      },
+                      {
+                          "answer":  "What does Hubble law connect?",
+                          "answer_1":  "Galaxy recession speed and distance",
+                          "answer_2":  "Mass and energy",
+                          "answer_3":  "Pressure and volume",
+                          "answer_4":  "Brightness and color only",
+                          "right_answer":  "Galaxy recession speed and distance"
+                      },
+                      {
+                          "answer":  "What is the main source of information about the early universe?",
+                          "answer_1":  "Cosmic microwave background",
+                          "answer_2":  "Moonlight",
+                          "answer_3":  "Ocean tides",
+                          "answer_4":  "Aurora only",
+                          "right_answer":  "Cosmic microwave background"
+                      },
+                      {
+                          "answer":  "What does parallax help astronomers measure?",
+                          "answer_1":  "Distance to nearby stars",
+                          "answer_2":  "Mass of every galaxy",
+                          "answer_3":  "Color of black holes",
+                          "answer_4":  "Solar wind speed only",
+                          "right_answer":  "Distance to nearby stars"
+                      },
+                      {
+                          "answer":  "Which object can briefly outshine a whole galaxy?",
+                          "answer_1":  "Supernova",
+                          "answer_2":  "Asteroid",
+                          "answer_3":  "Moon",
+                          "answer_4":  "Meteor dust",
+                          "right_answer":  "Supernova"
+                      },
+                      {
+                          "answer":  "What is the habitable zone around a star?",
+                          "answer_1":  "Region where liquid water may exist",
+                          "answer_2":  "Area of strongest magnetism",
+                          "answer_3":  "Edge of black hole",
+                          "answer_4":  "Ring of asteroids",
+                          "right_answer":  "Region where liquid water may exist"
+                      },
+                      {
+                          "answer":  "What usually forms after a medium-mass star sheds its outer layers?",
+                          "answer_1":  "White dwarf",
+                          "answer_2":  "Black hole",
+                          "answer_3":  "New galaxy",
+                          "answer_4":  "Red planet",
+                          "right_answer":  "White dwarf"
+                      },
+                      {
+                          "answer":  "What is gravitational lensing?",
+                          "answer_1":  "Bending of light by gravity",
+                          "answer_2":  "Breaking of telescopes",
+                          "answer_3":  "Reflection in ice rings",
+                          "answer_4":  "Moon shadow only",
+                          "right_answer":  "Bending of light by gravity"
+                      },
+                      {
+                          "answer":  "What is the main reason radio telescopes are useful?",
+                          "answer_1":  "They detect radio waves from space",
+                          "answer_2":  "They cool stars",
+                          "answer_3":  "They create gravity",
+                          "answer_4":  "They make planets brighter",
+                          "right_answer":  "They detect radio waves from space"
+                      },
+                      {
+                          "answer":  "What can cause meteor showers on Earth?",
+                          "answer_1":  "Earth passing through comet debris",
+                          "answer_2":  "Moon changing phase",
+                          "answer_3":  "Sun setting",
+                          "answer_4":  "Planetary rings alone",
+                          "right_answer":  "Earth passing through comet debris"
+                      },
+                      {
+                          "answer":  "What is escape velocity from a planet?",
+                          "answer_1":  "Minimum speed to leave without more propulsion",
+                          "answer_2":  "Any orbital speed",
+                          "answer_3":  "Speed of sound",
+                          "answer_4":  "Speed of light",
+                          "right_answer":  "Minimum speed to leave without more propulsion"
+                      }
+                  ]
+}
