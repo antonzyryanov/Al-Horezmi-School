@@ -2,6 +2,33 @@
 
 Kotlin Multiplatform educational quiz app with Arabic/English/Russian localization, progress tracking, records, and Appodeal ad integration (banner + rewarded).
 
+## Screenshots
+
+<table>
+	<tr>
+		<td><img src="screenshots/screenshot_1.jpg" alt="Screenshot 1"></td>
+		<td><img src="screenshots/screenshot_2.jpg" alt="Screenshot 2"></td>
+		<td><img src="screenshots/screenshot_3.jpg" alt="Screenshot 3"></td>
+		<td><img src="screenshots/screenshot_4.jpg" alt="Screenshot 4"></td>
+	</tr>
+	<tr>
+		<td><img src="screenshots/screenshot_5.jpg" alt="Screenshot 5"></td>
+		<td><img src="screenshots/screenshot_6.jpg" alt="Screenshot 6"></td>
+		<td><img src="screenshots/screenshot_7.jpg" alt="Screenshot 7"></td>
+		<td><img src="screenshots/screenshot_8.jpg" alt="Screenshot 8"></td>
+	</tr>
+	<tr>
+		<td><img src="screenshots/screenshot_9.jpg" alt="Screenshot 9"></td>
+		<td><img src="screenshots/screenshot_10.jpg" alt="Screenshot 10"></td>
+		<td><img src="screenshots/screenshot_11.jpg" alt="Screenshot 11"></td>
+		<td><img src="screenshots/screenshot_12.jpg" alt="Screenshot 12"></td>
+	</tr>
+</table>
+
+## Manual Tests videos
+
+https://drive.google.com/drive/folders/15loTwsDRNxX8MZ2FHIDEw_x5n3dBJjIi?usp=sharing
+
 ## Functionality
 
 - Player name onboarding screen.
